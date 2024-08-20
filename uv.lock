@@ -437,22 +437,16 @@ name = "ironhack-gpw3"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
-    { name = "ipykernel" },
     { name = "jupyter" },
-    { name = "matplotlib" },
-    { name = "numpy" },
     { name = "pandas" },
     { name = "seaborn" },
 ]
 
 [package.metadata]
 requires-dist = [
-    { name = "ipykernel" },
     { name = "jupyter" },
-    { name = "matplotlib" },
-    { name = "numpy" },
-    { name = "pandas" },
-    { name = "seaborn" },
+    { name = "pandas", specifier = ">=2.2.2" },
+    { name = "seaborn", specifier = ">=0.13.2" },
 ]
 
 [[package]]
