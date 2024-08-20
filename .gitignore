@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 .venv/
+ironhack_fresh_env/
 .env
 notebooks/.ipynb_checkpoints/
 notebooks/.env
