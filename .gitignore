@@ -6,4 +6,11 @@ notebooks/.ipynb_checkpoints/
 notebooks/.env
 notebooks/.DS_Store
 .DS_Store
+pyproject 2.toml
+pyproject.toml
+src/
+uv 2.lock
+uv.lock
+.gitignore.save
+.ipynb_checkpoints/
 *.in
