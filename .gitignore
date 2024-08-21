@@ -13,4 +13,8 @@ uv 2.lock
 uv.lock
 .gitignore.save
 .ipynb_checkpoints/
+cleaned/cleaned_combined_dataset_density.csv
+cleaned/cleaned_combined_dataset_filtered.csv
+cleaned/cleaned_combined_dataset_filtered.txt
+modified:   ../.DS_Store
 *.in
