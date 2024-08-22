@@ -1,6 +1,12 @@
 import pandas as pd
 import numpy as np
 
+def fill_na_with_group_mean(group):
+    return group.fillna(group.mean())
+
+def fill_na_with_group_median(group):
+    return group.fillna(group.median())
+
 def clean_dataframe(df):
     # Step 1: Lowercase column names and replace white spaces with underscores
     df.columns = [col.replace(" ", "_").lower() for col in df.columns]
