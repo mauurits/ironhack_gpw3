@@ -31,3 +31,4 @@ The dataset we worked with was from the European Environment Agency
 # Sources
 - Trello: https://trello.com/b/DG2wDkp4/kanbangpw3
 - Dataset: https://discomap.eea.europa.eu/App/AQViewer/index.html?fqn=Airquality_Dissem.hra.cities_sel
+- API: https://nominatim.org/
