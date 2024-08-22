@@ -11,6 +11,8 @@ dependencies = [
     "seaborn>=0.13.2",
     "jupyter>=1.0.0",
     "ipykernel>=6.29.5",
+    "folium>=0.17.0",
+    "geopy>=2.4.1",
 ]
 
 [build-system]
