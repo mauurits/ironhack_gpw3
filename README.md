@@ -10,7 +10,6 @@ After having selected our dataset we came up with three questions/hypotheses we 
 
 # Dataset 
 The dataset we worked with was from the European Environment Agency
-https://discomap.eea.europa.eu/App/AQViewer/index.html?fqn=Airquality_Dissem.hra.cities_sel
 
 ## Main dataset issues
 - redundant columns
@@ -29,5 +28,6 @@ https://discomap.eea.europa.eu/App/AQViewer/index.html?fqn=Airquality_Dissem.hra
 - Hypo 3 → proven to be right, strong correlation of the trends of premature deaths and air pollution levels
 
 
-# Next steps
-...
+# Sources
+Trello: https://trello.com/b/DG2wDkp4/kanbangpw3
+Dataset: https://discomap.eea.europa.eu/App/AQViewer/index.html?fqn=Airquality_Dissem.hra.cities_sel
