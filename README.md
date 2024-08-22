@@ -9,7 +9,8 @@ After having selected our dataset we came up with three questions/hypotheses we 
 4. A general comparison of the 10 biggest cities in the EU
 
 # Dataset 
-The dataset we worked with was from the European Environment Agency 
+The dataset we worked with was from the European Environment Agency
+https://discomap.eea.europa.eu/App/AQViewer/index.html?fqn=Airquality_Dissem.hra.cities_sel
 
 ## Main dataset issues
 - redundant columns
